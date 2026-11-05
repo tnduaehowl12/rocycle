@@ -25,7 +25,7 @@
 | 시스템 구조 | [system_architecture.png](https://raw.githubusercontent.com/tnduaehowl12/portfolio-assets/main/rocycle/system_architecture.png) |
 | 처리 파이프라인 | [pipeline_8steps.png](https://raw.githubusercontent.com/tnduaehowl12/portfolio-assets/main/rocycle/pipeline_8steps.png) |
 | 공정도 | [process_chart.png](https://raw.githubusercontent.com/tnduaehowl12/portfolio-assets/main/rocycle/process_chart.png) |
-| 캘리브레이션 개선 | [calibration_improvement.png](https://raw.githubusercontent.com/tnduaehowl12/portfolio-assets/main/rocycle/calibration_improvement.png) |
+| 캘리브레이션 개선 | [rocycle_calibration_process.png](https://raw.githubusercontent.com/tnduaehowl12/portfolio-assets/main/rocycle/rocycle_calibration_process.png) |
 
 ## 최종 코드는 `Final/` 입니다
 
